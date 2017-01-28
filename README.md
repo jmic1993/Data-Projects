@@ -1,4 +1,4 @@
-# Data Science
+# Data Projects
 
 The files in this repository are as follows:
 
